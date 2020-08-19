@@ -1,3 +1,6 @@
+
+   Solution to Green vs. Red problem, description in code and on html webpage, visible when ran (npm start | ng serve)
+
 # AngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
