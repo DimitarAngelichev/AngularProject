@@ -1,0 +1,12 @@
+.navbar-container {
+  height: 3em;
+  background-color: #1e2747;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-container>p {
+  margin: 0;
+}
