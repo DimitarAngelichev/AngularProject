@@ -6,9 +6,7 @@ export class LayoutComponent implements OnInit {
 
   constructor(
     private router: Router
-  ) {
-    // this.router.navigate(['/']);
-  }
+  ) { }
 
   ngOnInit(): void {
   }
